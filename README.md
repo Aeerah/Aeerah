@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aeerah
+- 👋 Hi, I’m @ Abdulhameed kabir 
 - 👀 I’m interested in ...becoming data analysis 
-- 🌱 I’m currently learning ...power bi
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...power bi, sql
+- 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...
 
 <!---
